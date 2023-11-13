@@ -14,18 +14,17 @@
 
 # 인터넷이란 LAN, WAN을 연결한 전세계 규모의 네트워크이다.
 
-![Alt text](Internet.png)
+![Alt text](image/Internet.png)
 **모뎀 (modem)** : 네트워크 통신에 필요한 신호 변환 장치
 
 **공유기 (home router)** : 여러 기기들을 인터넷에 연결될 수 있도록 하는 장치, 하나의 IP 주소로도 동시에 인터넷을 사용하는 것이 가능, 공유기에 연결된 기기들은 같은 네트워크 소속
 
 **스위치 (switch)** : 같은 네트워크 내의 기기들이 서로 통신할 수 있도록 하는 장치, 보통 공유기의 랜(Lan) 포트 수가 부족할 때 사용, 스위칭 허브 혹은 그냥 허브라고도 불림
-
-![Alt text](ISP.png)
+![Alt text](image/ISP.png)
 **ISP (internet service provider)** : 일반 사용자나 회사, 기관 등이 인터넷을 사용할 수 있도록 인터넷 연결 서비스를 제공하는 존재
 (SK 브로드밴드, KT , LG U+)
 
-![Alt text](Tier.png)
+![Alt text](image/Tier.png)
 **tier 1** : **_국제 범위의 네트워크 보유 / 인터넷의 모든 네트워크 접급 가능 / 인터넷 중추 역할 (backbone) / 트래픽 전송 비용 없음_**
 가장 높은 등급은 Tier-1으로 17개 ISP가 이에 속해있다. 대표적으로 미국의 AT&T, Verizon, Sprint 등이 있다.
 
@@ -36,7 +35,7 @@ Tier-2 ISP는 Tier-1 ISP의 고객인 셈이다.
 **tier 3** : **_작은 지역 범위 서비스 제공 / 일반 사용자나 기업 대상 서비스 / 상위 ISP에게 비용을 내고 인터넷 트래픽을 구매해서 이를 통해 서비스 (미국 같은 땅이 넓은 지역)_**
 Tier-2 보다 작은 인터넷 사업자에 해당하는 Tier-3 ISP도 존재한다. LG U+가 여기에 속한다.
 
-![Alt text](router.png)
+![Alt text](image/router.png)
 **노드 ( node )** : 네트워크를 구성하는 장치(device) 통틀어서 노드 라고 부릅니다. ( 컴퓨터, 라우터, 모뎀, 스위치 )
 
 **End system, 호스트(host)** : 네트워크의 끝에 있는 노드 / 네트워크를 사용하기 위해 연결된 노드 / 클라이언트와 서버로 나뉨
